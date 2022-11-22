@@ -1,0 +1,35 @@
+CONTAINER ID   IMAGE          COMMAND                  CREATED         STATUS                     PORTS                                       NAMES
+1cb34545154a   sampleapp      "/bin/sh -c 'python3…"   2 minutes ago   Up 2 minutes               0.0.0.0:8080->8080/tcp, :::8080->8080/tcp   samplerunning
+26f44d89babf   ubuntu         "bash"                   2 days ago      Exited (127) 2 days ago                                                exciting_austin
+4f4e2dae75d4   nginx          "/docker-entrypoint.…"   2 days ago      Created                                                                competent_poincare
+6514eafd41e0   nginx          "/docker-entrypoint.…"   2 days ago      Exited (0) 2 days ago                                                  wizardly_shannon
+3621c5c803c0   4abed1de3b82   "/bin/sh -c 'apt ins…"   2 days ago      Exited (255) 2 hours ago                                               hardcore_morse
+076a618fcaca   ubuntu         "bash"                   2 days ago      Exited (255) 2 hours ago                                               nervous_northcutt
+0bab1c62a5fc   3ef3b2966c35   "bash"                   2 days ago      Exited (0) 2 days ago                                                  xenodochial_moser
+2e815f06dbbf   3ef3b2966c35   "bash"                   2 days ago      Exited (1) 2 days ago                                                  inspiring_bouman
+0c38b6c01ea7   76c69feac34e   "/docker-entrypoint.…"   2 days ago      Exited (255) 2 hours ago   0.0.0.0:8080->80/tcp, :::8080->80/tcp       hopeful_darwin
+306cf5765ae4   ubuntu         "bash"                   2 days ago      Exited (255) 2 hours ago                                               interesting_bell
+49138ed5fb0f   ubuntu         "/bin/bash"              2 days ago      Exited (255) 2 hours ago                                               youthful_gould
+e76dfd5fca19   ubuntu         "bash"                   2 days ago      Exited (0) 2 days ago                                                  blissful_bartik
+6dc9cdc51d49   ubuntu         "bash"                   2 days ago      Exited (0) 2 days ago                                                  vigorous_stonebraker
+1c10ded060cd   cpe232:1.0     "bash"                   2 days ago      Exited (0) 2 days ago                                                  cranky_lehmann
+f31fd0b315f6   9135           "bash"                   2 days ago      Exited (255) 2 hours ago                                               vigorous_kilby
+8d5fb474ec88   9135           "bash"                   2 days ago      Exited (0) 2 days ago                                                  zealous_wright
+98f15ea112f4   cpe232:1.0     "/bin/bash"              2 days ago      Exited (137) 2 days ago                                                elegant_davinci
+9ffd1269addb   cpe232:1.0     "/bin/bash"              2 days ago      Exited (137) 2 days ago                                                festive_grothendieck
+8c162bff0aca   cpe232:1.0     "/bin/bash"              2 days ago      Exited (137) 2 days ago                                                dazzling_haibt
+45f6131bff8b   cpe232:1.0     "/bin/bash"              2 days ago      Exited (137) 2 days ago                                                confident_proskuriakova
+37b471282ff4   cpe232:1.0     "/bin/bash"              2 days ago      Exited (137) 2 days ago                                                inspiring_ishizaka
+427c103412a3   ubuntu         "/bin/bash"              2 days ago      Exited (137) 2 days ago                                                upbeat_meitner
+f1013cbec53a   cpe232:1.0     "bash"                   7 days ago      Exited (255) 4 days ago                                                competent_yonath
+bfe3a3ead29c   ubuntu         "2a"                     7 days ago      Created                                                                sharp_meninsky
+f9340e1a9f51   ubuntu         "bash"                   7 days ago      Exited (0) 7 days ago                                                  mystifying_cannon
+211ee62f7659   ubuntu         "bash"                   7 days ago      Exited (137) 7 days ago                                                jolly_shannon
+2a12b39cb93a   ubuntu         "bash"                   7 days ago      Exited (255) 4 days ago                                                great_babbage
+7f6da6854a3e   76c69feac34e   "/docker-entrypoint.…"   7 days ago      Exited (137) 7 days ago                                                quirky_brahmagupta
+4f774535c62b   ubuntu         "bash"                   7 days ago      Exited (137) 7 days ago                                                sharp_burnell
+c23d3397ca65   76c69feac34e   "/docker-entrypoint.…"   7 days ago      Exited (0) 7 days ago                                                  naughty_chatelet
+4ce22672f096   ubuntu         "/bin/bash"              7 days ago      Exited (0) 7 days ago                                                  festive_driscoll
+d3349a75f77f   ubuntu         "bash"                   7 days ago      Exited (0) 7 days ago                                                  vigorous_taussig
+2842dcaf5df1   hello-world    "/hello"                 7 days ago      Exited (0) 7 days ago                                                  happy_kowalevski
+c0bd529ec499   hello-world    "/hello"                 7 days ago      Exited (0) 7 days ago                                                  brave_poitras
